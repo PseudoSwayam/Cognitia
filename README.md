@@ -66,20 +66,22 @@ Cognitia/
 
 ## ⚡ Getting Started
 
-### 🔧 Backend (Python + FastAPI)
+🔧 Backend (Python + FastAPI)
 ```bash
 cd 'Cognitia Backend'
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 app.py
+```
 
 💻 Frontend (React + Vite)
 
+```bash
 cd 'Cognitia FrontEnd'
 npm install
 npm run dev
-
+```
 
 ⸻
 
@@ -129,6 +131,6 @@ touch README.md
 git add README.md
 git commit -m "Added professional README for Cognitia"
 git push
-
+```
 
 ⸻
