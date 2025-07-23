@@ -114,7 +114,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 📬 Contact
 
-Built with ❤️ by Swayam Sahoo
+Built by Swayam Sahoo
 For collaboration, reach out via LinkedIn or GitHub.
 
 ---
