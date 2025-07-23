@@ -38,6 +38,7 @@
 
 ## 📁 Project Structure
 
+```
 Cognitia/
 │
 ├── Cognitia Backend/
@@ -60,7 +61,7 @@ Cognitia/
 │
 ├── LICENSE
 └── .gitignore
-
+```
 ---
 
 ## ⚡ Getting Started
