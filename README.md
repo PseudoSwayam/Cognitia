@@ -86,18 +86,21 @@ npm run dev
 ---
 
 🧪 Demo Use Cases
+```
 	•	Ask: “Summarize and debate the claims of this ArXiv paper”
 	•	Ask: “What are the counterarguments in this YouTube lecture?”
 	•	Ask: “Give a mentor’s response vs a critic’s view”
+```
 
 ---
 
 📌 Roadmap
+```
 	•	Add local PDF upload + analysis
 	•	Export debate logs as reports
 	•	Improve real-time LLM streaming
 	•	Integrate citation-aware memory
-
+```
 ---
 
 🪪 License
@@ -131,5 +134,3 @@ git add README.md
 git commit -m "Added professional README for Cognitia"
 git push
 ```
-
----
