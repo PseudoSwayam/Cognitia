@@ -83,14 +83,14 @@ npm install
 npm run dev
 ```
 
-⸻
+---
 
 🧪 Demo Use Cases
 	•	Ask: “Summarize and debate the claims of this ArXiv paper”
 	•	Ask: “What are the counterarguments in this YouTube lecture?”
 	•	Ask: “Give a mentor’s response vs a critic’s view”
 
-⸻
+---
 
 📌 Roadmap
 	•	Add local PDF upload + analysis
@@ -98,19 +98,19 @@ npm run dev
 	•	Improve real-time LLM streaming
 	•	Integrate citation-aware memory
 
-⸻
+---
 
 🪪 License
 
 This project is licensed under the MIT License
 
-⸻
+---
 
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-⸻
+---
 
 📬 Contact
 
@@ -133,4 +133,4 @@ git commit -m "Added professional README for Cognitia"
 git push
 ```
 
-⸻
+---
