@@ -123,10 +123,9 @@ For collaboration, reach out via LinkedIn or GitHub.
 
 1. Create a file:
 ```bash
-touch README.md
-
-	2.	Paste the entire markdown above.
-	3.	Commit and push:
+1. touch README.md
+2. Paste the entire markdown above.
+3. Commit and push:
 
 git add README.md
 git commit -m "Added professional README for Cognitia"
